@@ -10,7 +10,7 @@ Defaul URL to access calendar : http://localhost/shorthillstech <br/>
 
 ## Contributing
 
-Thank you for considering contributing to the Event Calendar!.
+Thank you for considering contributing to the Insert encrypted values in database use laravel!.
 
 ## Security Vulnerabilities
 
