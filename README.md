@@ -5,7 +5,7 @@ Insert encrypted values in database use laravel <br/>
 
 ## Important Note
 
-Defaul URL to access calendar : http://localhost/shorthillstech <br/>
+Default URL to access calendar : http://localhost/shorthillstech <br/>
 
 
 ## Contributing
